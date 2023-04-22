@@ -1,2 +1,2 @@
 # JavaTechModularWork
-![image](https://user-images.githubusercontent.com/86744880/233802506-cd4206cb-3483-437b-af3b-fec715813db4.png)
+All the classes are in the country package. The data to be filled in are in the resource directory. The main execution code takes place in the main method.
